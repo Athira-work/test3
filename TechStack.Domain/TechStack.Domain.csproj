@@ -1,0 +1,40 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entities\TRM\**" />
+    <EmbeddedResource Remove="Entities\TRM\**" />
+    <None Remove="Entities\TRM\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entities\GitIssues.cs" />
+    <Compile Remove="Entities\GitProject.cs" />
+    <Compile Remove="Entities\GitUser.cs" />
+    <Compile Remove="Entities\Resource.cs" />
+    <Compile Remove="Services\Interfaces\IIssueService.cs" />
+    <Compile Remove="Services\Interfaces\IProjectRepository.cs" />
+    <Compile Remove="Services\Interfaces\IProjectService.cs" />
+    <Compile Remove="Services\Interfaces\IUserRepository.cs" />
+    <Compile Remove="Services\Interfaces\IUserService.cs" />
+    <Compile Remove="Services\IssueService.cs" />
+    <Compile Remove="Services\ProjectService.cs" />
+    <Compile Remove="Services\ResourceService.cs" />
+    <Compile Remove="Services\TRMProjectService.cs" />
+    <Compile Remove="Services\UserService.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Base\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="10.1.1" />
+    <PackageReference Include="GitLabApiClient" Version="1.8.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="5.0.0" />
+  </ItemGroup>
+
+</Project>

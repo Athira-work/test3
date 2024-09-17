@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "SvTCG4g5vMaPE5tL18aonSOxQs/oGYI73j9QlHfVxidd2r9M3Qn5b0tyz6VpImqp69vOkAsJSo3UKU4OATaXHA==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\TechStack\\Stack1\\TechStack.Domain\\TechStack.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vijuv\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\vijuv\\.nuget\\packages\\gitlabapiclient\\1.8.0\\gitlabapiclient.1.8.0.nupkg.sha512",
+    "C:\\Users\\vijuv\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\vijuv\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\vijuv\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\vijuv\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

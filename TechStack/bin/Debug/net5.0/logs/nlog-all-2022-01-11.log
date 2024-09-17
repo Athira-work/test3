@@ -1,0 +1,147 @@
+2022-01-11 08:59:17.5031||DEBUG|TRM.GitLab.Program|init main 
+2022-01-11 08:59:23.9886||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 08:59:24.0055||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 08:59:24.7673||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 08:59:24.7708||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 08:59:25.0390||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:34092:9e910caf successfully announced in 207.4534 ms 
+2022-01-11 08:59:25.0390||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:34092:903ee5f8 successfully announced in 785.3291 ms 
+2022-01-11 08:59:25.0765||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:34092:9e910caf is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 08:59:25.0765||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:34092:903ee5f8 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 08:59:25.6368||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:34092:903ee5f8 all the dispatchers started 
+2022-01-11 08:59:25.6368||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:34092:9e910caf all the dispatchers started 
+2022-01-11 08:59:26.7693||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-11 08:59:26.7849||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-11 08:59:26.7849||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Project\TechStack\Stack1\TechStack 
+2022-01-11 09:00:46.0187||DEBUG|TRM.GitLab.Program|init main 
+2022-01-11 09:00:47.7726||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 09:00:47.7726||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 09:00:48.0180||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 09:00:48.0222||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 09:00:48.1550||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:29080:5d651149 successfully announced in 260.1148 ms 
+2022-01-11 09:00:48.1550||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:29080:2cd58361 successfully announced in 105.4374 ms 
+2022-01-11 09:00:48.1801||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:29080:5d651149 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 09:00:48.1801||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:29080:2cd58361 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 09:00:48.7196||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:29080:5d651149 all the dispatchers started 
+2022-01-11 09:00:48.7616||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:29080:2cd58361 all the dispatchers started 
+2022-01-11 09:00:49.2735||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-11 09:00:49.3204||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-11 09:00:49.3429||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Project\TechStack\Stack1\TechStack 
+2022-01-11 09:01:02.3477||DEBUG|TRM.GitLab.Program|init main 
+2022-01-11 09:01:04.0061||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 09:01:04.0061||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 09:01:04.2912||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 09:01:04.2912||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 09:01:04.4621||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:23752:d3e5dab5 successfully announced in 316.5676 ms 
+2022-01-11 09:01:04.4621||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:23752:90e77688 successfully announced in 153.6102 ms 
+2022-01-11 09:01:04.5008||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:23752:90e77688 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 09:01:04.5008||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:23752:d3e5dab5 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 09:01:04.9944||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:23752:d3e5dab5 all the dispatchers started 
+2022-01-11 09:01:05.0468||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:23752:90e77688 all the dispatchers started 
+2022-01-11 09:01:05.5183||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-11 09:01:05.5597||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-11 09:01:05.5824||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Project\TechStack\Stack1\TechStack 
+2022-01-11 09:01:54.9886||DEBUG|TRM.GitLab.Program|init main 
+2022-01-11 09:01:56.6765||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 09:01:56.6765||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 09:01:56.9231||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 09:01:56.9262||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 09:01:57.0719||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:42744:d727fb70 successfully announced in 135.4133 ms 
+2022-01-11 09:01:57.0719||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:42744:b1a8e74a successfully announced in 286.2681 ms 
+2022-01-11 09:01:57.1135||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:42744:d727fb70 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 09:01:57.1135||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:42744:b1a8e74a is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 09:01:57.4348||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:42744:b1a8e74a all the dispatchers started 
+2022-01-11 09:01:57.4768||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:42744:d727fb70 all the dispatchers started 
+2022-01-11 09:01:57.9745||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-11 09:01:58.0040||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-11 09:01:58.0225||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Project\TechStack\Stack1\TechStack 
+2022-01-11 09:03:48.2845||DEBUG|TRM.GitLab.Program|init main 
+2022-01-11 09:03:49.9460||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 09:03:49.9460||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 09:03:50.1890||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 09:03:50.1917||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 09:03:50.3232||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:2148:c63cd35e successfully announced in 122.9153 ms 
+2022-01-11 09:03:50.3232||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:2148:e6b67ac9 successfully announced in 253.9372 ms 
+2022-01-11 09:03:50.3517||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:2148:c63cd35e is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 09:03:50.3517||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:2148:e6b67ac9 is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 09:03:50.8199||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:2148:e6b67ac9 all the dispatchers started 
+2022-01-11 09:03:50.8414||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:2148:c63cd35e all the dispatchers started 
+2022-01-11 09:03:51.5764||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-11 09:03:51.6000||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-11 09:03:51.6143||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Project\TechStack\Stack1\TechStack 
+2022-01-11 09:04:14.7859|1|ERROR|Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware|An unhandled exception has occurred while executing the request. System.InvalidOperationException: Unable to resolve service for type 'System.Net.Http.IHttpClientFactory' while attempting to activate 'TRM.GitLab.Controllers.WeatherForecastController'.
+   at Microsoft.Extensions.DependencyInjection.ActivatorUtilities.GetService(IServiceProvider sp, Type type, Type requiredBy, Boolean isDefaultParameterRequired)
+   at lambda_method23(Closure , IServiceProvider , Object[] )
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerActivatorProvider.<>c__DisplayClass4_0.<CreateActivator>b__0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Controllers.ControllerFactoryProvider.<>c__DisplayClass5_0.<CreateControllerFactory>g__CreateController|0(ControllerContext controllerContext)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|19_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Awaited|17_0(ResourceInvoker invoker, Task task, IDisposable scope)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|6_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Builder.Extensions.MapMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddleware.Invoke(HttpContext context)
+2022-01-11 09:06:17.0344||DEBUG|TRM.GitLab.Program|init main 
+2022-01-11 09:06:18.8979||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 09:06:18.8979||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 09:06:19.2080||INFO|Hangfire.BackgroundJobServer|Starting Hangfire Server using job storage: 'Hangfire.MemoryStorage.MemoryStorage' 
+2022-01-11 09:06:19.2080||INFO|Hangfire.BackgroundJobServer|Using the following options for Hangfire Server:
+    Worker count: 20
+    Listening queues: 'default'
+    Shutdown timeout: 00:00:15
+    Schedule polling interval: 00:00:15 
+2022-01-11 09:06:19.3768||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:19552:c3622bca successfully announced in 141.3975 ms 
+2022-01-11 09:06:19.3768||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:19552:75c9f22c successfully announced in 335.6984 ms 
+2022-01-11 09:06:19.4085||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:19552:c3622bca is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 09:06:19.4085||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:19552:75c9f22c is starting the registered dispatchers: ServerWatchdog, ServerJobCancellationWatcher, ExpirationManager, CountersAggregator, Worker, DelayedJobScheduler, RecurringJobScheduler... 
+2022-01-11 09:06:19.9558||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:19552:75c9f22c all the dispatchers started 
+2022-01-11 09:06:20.0666||INFO|Hangfire.Server.BackgroundServerProcess|Server refl-lp108:19552:c3622bca all the dispatchers started 
+2022-01-11 09:06:20.6233||INFO|Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2022-01-11 09:06:20.6370||INFO|Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2022-01-11 09:06:20.6818||INFO|Microsoft.Hosting.Lifetime|Content root path: C:\Project\TechStack\Stack1\TechStack 

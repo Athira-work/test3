@@ -1,0 +1,12 @@
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\bin\Debug\net5.0\TRM.GitLab.Domain.deps.json
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\bin\Debug\net5.0\TRM.GitLab.Domain.dll
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\bin\Debug\net5.0\ref\TRM.GitLab.Domain.dll
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\bin\Debug\net5.0\TRM.GitLab.Domain.pdb
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\obj\Debug\net5.0\TRM.GitLab.Domain.csproj.AssemblyReference.cache
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\obj\Debug\net5.0\TRM.GitLab.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\obj\Debug\net5.0\TRM.GitLab.Domain.AssemblyInfoInputs.cache
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\obj\Debug\net5.0\TRM.GitLab.Domain.AssemblyInfo.cs
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\obj\Debug\net5.0\TRM.GitLab.Domain.csproj.CoreCompileInputs.cache
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\obj\Debug\net5.0\TRM.GitLab.Domain.dll
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\obj\Debug\net5.0\ref\TRM.GitLab.Domain.dll
+C:\Project\TechStack\Stack1\TRM.GitLab.Domain\obj\Debug\net5.0\TRM.GitLab.Domain.pdb

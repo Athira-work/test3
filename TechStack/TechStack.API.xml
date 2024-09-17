@@ -1,0 +1,210 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TRM.GitLab</name>
+    </assembly>
+    <members>
+        <member name="F:TechStack.Controllers.BaseController.CurrentUserId">
+            <summary>
+            Current user.
+            </summary>
+        </member>
+        <member name="F:TechStack.Controllers.BaseController.CurrentResourceId">
+            <summary>
+            CurrentResourceId.
+            </summary>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:TechStack.Controllers.BaseController"/> class.
+            </summary>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.SuccessResponse">
+            <summary>
+            SuccessResponse.
+            </summary>
+            <returns>Success Response.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.SuccessResponse(System.String)">
+            <summary>
+            Success Response.
+            </summary>
+            <param name="message">pass message.</param>
+            <returns>SuccessResponse.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.SuccessResponse``1(``0)">
+            <summary>
+            Success Response.
+            </summary>
+            <typeparam name="T">T.</typeparam>
+            <param name="responseObject">response Object.</param>
+            <returns>Returns Object.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.SuccessResponse``1(System.String,``0)">
+            <summary>
+            Success Response.
+            </summary>
+            <typeparam name="T">T.</typeparam>
+            <param name="message">message.</param>
+            <param name="responseObject">responseObject.</param>
+            <returns>ResultModel.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.SuccessPagedResponse``1(``0,System.Int32,System.Int32,System.Int32,System.String)">
+            <summary>
+            Success Paged Response.
+            </summary>
+            <typeparam name="T">Type.</typeparam>
+            <param name="responseObject">Response Object.</param>
+            <param name="totalRecords">Total Records.</param>
+            <param name="currentPageNo">Current Page No.</param>
+            <param name="pageSize">PageSize.</param>
+            <param name="message">message.</param>
+            <returns>SuccessPagedResponseWithResponseObject.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.SuccessPagedResponse``1(``0,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Success Paged Response.
+            </summary>
+            <typeparam name="T">Type.</typeparam>
+            <param name="responseObject">Response Object.</param>
+            <param name="totalRecords">Total Records.</param>
+            <param name="currentPageNo">Current Page No.</param>
+            <param name="pageSize">PageSize.</param>
+            <returns>SuccessPagedResponseWithResponseObject.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.SuccessPagedResponse``1(System.String,``0,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Success Paged Response.
+            </summary>
+            <typeparam name="T">Type.</typeparam>
+            <param name="message">Message.</param>
+            <param name="responseObject">Response Object.</param>
+            <param name="totalRecords">Total Records.</param>
+            <param name="currentPageNo">Current Page No.</param>
+            <param name="pageSize">PageSize.</param>
+            <returns>SuccessPagedResponseWithMessageAndResponseObject.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.FailureResponse">
+            <summary>
+            FailureResponse.
+            </summary>
+            <returns>Failure Response.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.FailureResponse(System.String)">
+            <summary>
+            FailureResponse.
+            </summary>
+            <param name="message">message.</param>
+            <returns>status.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.BaseController.APIExceptionResponse(System.Exception)">
+            <summary>
+            APIExceptionResponse.
+            </summary>
+            <param name="ex">ex.</param>
+            <returns>returns exception.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.IssueController.Get(System.Int32)">
+            <summary>
+            Retrieve issue details.
+            </summary>
+            <param name="projectId">projectId.</param>
+            <returns>ResultModel ModuleViewModel.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.IssueController.Get(System.Int32,System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.String)">
+            <summary>
+            Retrieve issue details.
+            </summary>
+            <param name="projectId">projectId.</param>
+            <returns>ResultModel ModuleViewModel.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.IssueController.GetAsByte(System.Int32,System.Nullable{System.DateTime},System.Nullable{System.DateTime},System.String)">
+            <summary>
+            Retrieve issue details.
+            </summary>
+            <param name="projectId">projectId.</param>
+            <returns>ResultModel ModuleViewModel.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.ProjectController.Get(System.String)">
+            <summary>
+            Retrieve project List.
+            </summary>
+            <param name="name">name.</param>
+            <returns>ResultModel ModuleViewModel.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.ProjectController.GetByUser(System.String)">
+            <summary>
+            Retrieve project List.
+            </summary>
+            <param name="name">name.</param>
+            <returns>ResultModel ModuleViewModel.</returns>
+        </member>
+        <member name="M:TechStack.Controllers.ProjectController.GetByPM(System.String)">
+            <summary>
+            Retrieve TRM project List by email id of the project manager.
+            </summary>
+            <param name="managerEmail">project manager emailid.</param>
+            <returns>ResultModel ModuleViewModel.</returns>
+        </member>
+        <member name="T:TechStack.Models.PagedResultModel`1">
+            <summary>
+            All API response will be a PagedResultModel<typeparamref name="T"/> object.
+            </summary>
+            <typeparam name="T">Type.</typeparam>
+        </member>
+        <member name="P:TechStack.Models.PagedResultModel`1.TotalRecords">
+            <summary>
+            Gets or sets TotalRecords.
+            </summary>
+        </member>
+        <member name="P:TechStack.Models.PagedResultModel`1.CurrentPageNo">
+            <summary>
+            Gets or sets CurrentPageNo.
+            </summary>
+        </member>
+        <member name="P:TechStack.Models.PagedResultModel`1.PageSize">
+            <summary>
+            Gets or sets PageSize.
+            </summary>
+        </member>
+        <member name="P:TechStack.Models.PagedResultModel`1.NextPageNo">
+            <summary>
+            Gets or sets NextPageNo.
+            </summary>
+        </member>
+        <member name="T:TechStack.Models.ResultModel`1">
+            <summary>
+            All API response will be a ResultModel<typeparamref name="T"/> object.
+            </summary>
+            <typeparam name="T">Type.</typeparam>
+        </member>
+        <member name="P:TechStack.Models.ResultModel`1.Status">
+            <summary>
+            Gets or sets Status.
+            </summary>
+        </member>
+        <member name="P:TechStack.Models.ResultModel`1.Message">
+            <summary>
+            Gets or sets Message.
+            </summary>
+        </member>
+        <member name="P:TechStack.Models.ResultModel`1.Result">
+            <summary>
+            Gets or sets Result.
+            </summary>
+        </member>
+        <member name="M:TechStack.Program.CreateHostBuilder(System.String[])">
+            <summary>
+            CreateHostBuilder.
+            </summary>
+            <param name="args">args.</param>
+            <returns>Result.</returns>
+        </member>
+        <member name="M:TechStack.Startup.AllowedOrgins">
+            <summary>
+            Get Allowed orgins.
+            </summary>
+            <returns>orgins.</returns>
+        </member>
+    </members>
+</doc>
